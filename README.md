@@ -1,6 +1,12 @@
 # Quantitative Portfolio Optimization & Risk Engine
 
+![Python](https://img.shields.io/badge/python-3.12%2B-blue)
+![Streamlit](https://img.shields.io/badge/streamlit-app-red)
+![yfinance](https://img.shields.io/badge/yfinance-enabled-green)
+
 A local Python application that performs quantitative analysis on stock portfolios. It fetches historical data, calculates risk metrics, and uses Monte Carlo simulations to recommend optimal asset allocation based on the Sharpe Ratio.
+
+![Dashboard Screenshot](assets/dashboard_screenshot.png)
 
 ## Project Goal
 To build a robust tool for investors and analysts to visualize the Efficient Frontier and determine the optimal portfolio allocation for a given set of assets, minimizing risk while maximizing expected returns.

@@ -40,6 +40,10 @@ To build a robust tool for investors and analysts to visualize the Efficient Fro
 
 ## Usage
 
+### One-Click Run (macOS)
+Double-click the `run_app.command` file in the project folder. This will automatically set up the environment and launch the application.
+
+### Manual Run
 1. Run the Streamlit application:
    ```bash
    streamlit run app.py
